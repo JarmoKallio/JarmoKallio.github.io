@@ -1,1 +1,5 @@
-java config
+{
+  BookingID=123,
+  FormID=112233,
+  JWT=aswdwrrereqe
+}
